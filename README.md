@@ -14,3 +14,8 @@ Questo libro non è un *one-man-show*: tutti possono aggiungere, modificare, est
 ## Build requirements
 * [Pandoc](https://pandoc.org)
 * [Wkhtmltopdf](https://wkhtmltopdf.org/)
+
+## Build command 
+```
+npm run build
+```
