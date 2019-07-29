@@ -6,7 +6,7 @@
   "scripts": {
     "html": "pandoc -f markdown -t html5 capitoli/0-indice.md capitoli/1-per-iniziare.md capitoli/2-if-elseif-else.md capitoli/3-while-do-while.md -o esercizi-di-informatica.html --metadata-file=metadata.yaml -s",
     "epub": "pandoc -f markdown -t epub  capitoli/0-indice.md capitoli/1-per-iniziare.md capitoli/2-if-elseif-else.md capitoli/3-while-do-while.md -o esercizi-di-informatica.epub --metadata-file=metadata.yaml",
-    "pdf": "pandoc -f markdown -t html5 capitoli/0-indice.md capitoli/1-per-iniziare.md capitoli/2-if-elseif-else.md capitoli/3-while-do-while.md -o esercizi-di-informatica.pdf --metadata-file=metadata.yaml",
+    "pdf": "pandoc -f markdown -t html5 capitoli/0-copertina.md capitoli/0-indice.md capitoli/1-per-iniziare.md capitoli/2-if-elseif-else.md capitoli/3-while-do-while.md -o esercizi-di-informatica.pdf --metadata-file=metadata.yaml",
     "build": "npm run html && npm run epub && npm run pdf"
   },
   "repository": {
