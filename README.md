@@ -4,8 +4,8 @@ Vuoi fare pratica con la programmazione? Il tuo libro di testo non prevede eserc
 Questo libro propone una serie di esercizi di programmazione adatto a tutti il linguaggi (C, C++, Python, Java, etc.) che ti darà modo di esercitarti attraverso una serie di esercizi corredati da esempi.
 
 ## Scaricalo subito
-+ Versione [epub](https://github.com/lucavandro/Esercizi-di-programmazione/esercizi-di-programmazione.epub)
-+ Versione [pdf](https://github.com/lucavandro/Esercizi-di-programmazione/esercizi-di-programmazione.pdf) 
++ Versione [epub](https://github.com/lucavandro/Esercizi-di-programmazione/raw/master/esercizi-di-programmazione.epub)
++ Versione [pdf](https://github.com/lucavandro/Esercizi-di-programmazione/raw/master/esercizi-di-programmazione.pdf) 
 
 ## Perchè un libro *open-source*?
 Questo libro non è un *one-man-show*: tutti possono aggiungere, modificare, estendere i contenuti.
