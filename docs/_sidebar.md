@@ -1,4 +1,3 @@
-Ciao mondo
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
