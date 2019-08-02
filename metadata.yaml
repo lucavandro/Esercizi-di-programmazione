@@ -8,3 +8,7 @@ css: style.css
 rights:  Creative Commons Attribution Non-Commercial Share Alike 3.0
 language: it-IT
 cover-image: copertina.png
+margin-left: 0.5in 
+margin-right: 0.5in 
+margin-top: 0.8in 
+margin-bottom: 0.8in

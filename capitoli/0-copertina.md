@@ -1,4 +1,4 @@
-![copertina](copertina.png)
+![](copertina.png)
 
 # Esercizi di programmazione
 ### di *Luca Vandro*
