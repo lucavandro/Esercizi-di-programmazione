@@ -13,7 +13,18 @@
   
 </head>
 <body>
+  <div id="add-to-homescreen" class="hidden">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+      <span aria-hidden="true">&times;</span>
+    </button>
+    <p>
+    Installa <b>Esercizi di informatica</b> sul tuo dispositivo
+    </p>
+    <button id="install">Installa</button>
+      
+  </div>
   <div id="app"></div>
+   
   <script>
     window.$docsify = {
       name: '',
@@ -32,6 +43,7 @@
       subMaxLevel: 2
     }
   </script>
+  <script src="./js/pwa.js"></script>
   <script src="//unpkg.com/docsify/lib/docsify.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <!--SERVICE WORKER-->
