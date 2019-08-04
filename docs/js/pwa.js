@@ -1,5 +1,5 @@
 var divInstall = document.querySelector("#add-to-homescreen");
-var btnInstall = document.querySelector("#install");
+var btnAdd = document.querySelector("#install");
 var btnClose   = document.querySelector("#add-to-homescreen .close");
 
 window.addEventListener('beforeinstallprompt', (event) => {
@@ -12,13 +12,13 @@ window.addEventListener('beforeinstallprompt', (event) => {
   });
 
   window.addEventListener('appinstalled', (evt) => {
-    //divInstall.classList.toggle('hidden', true);
+    divInstall.classList.toggle('hidden', true);
   });
 
 
-  btnInstall.addEventListener('click', (e) => {
+  btnAdd.addEventListener('click', (e) => {
     // hide our user interface that shows our A2HS button
-    btnAdd.style.display = 'none';
+    divInstall.classList.toggle('hidden', true);
     // Show the prompt
     deferredPrompt.prompt();
     // Wait for the user to respond to the prompt
