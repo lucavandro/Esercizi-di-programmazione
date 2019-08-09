@@ -1,11 +1,11 @@
 <!-- docs/_sidebar.md -->
-[![Esercizi di informatica](./images/logo.png)](/)
+
+<img src="/_media/logo.png" data-origin="_media/logo.png" alt="logo">
 
 * Esercizi
 
-    * [Input/Output](/1-input-output)
-    * [Selezione](/2-selezione)
-    * [Cicli](/3-cicli)
+    * [Input/Output](1-input-output.md)
+    * [Selezione](2-selezione.md)
+    * [Cicli](3-cicli.md)
 
-* Link
-    * Github
+* <a id="pwa" class="" href="javascript:void(0)"><b>Versione offline</b></a>

@@ -92,7 +92,7 @@ Inserisci il numero di pizze: 6
 
 Il totale da pagare è 30 Euro
 ```
-## b7. Stasera pizza! 2 [La vendetta]
+## b7. Stasera pizza! 2
 Una pizzeria effettua consegne a domicilio. 
 Ogni pizza costa 5 Euro ai quali va aggiunto 1 Euro per il costo del trasporto. Se però si ordinano più di 5 pizze, il trasporto è gratuito.
 Inoltre se il totale supera i 50 euro si ha diritto ad uno sconto del 10%.
@@ -176,9 +176,9 @@ Scrivere un programma che dato in input il giorno della settimana, stampi il mat
 
 ##### ESEMPIO 1
 ```
-Inserisci il giorno: Giovedì
+Inserisci il giorno: giovedì
 
-Il Giovedì si raccoglie la plastica.
+Il giovedì si raccoglie la plastica.
 ```
 ## b10. Raccolta differenziata 2
 L'app sviluppata dal comune di Roncofritto nell'esercizio n.8 ha avuto grandissimo successo!
@@ -188,13 +188,13 @@ Ora il comune vuole aggiungere una nuova funzionalità all'app: vuole che l'app 
 ```
 Inserisci il materiale: Plastica
 
-La plastica viene raccolta di Giovedì
+La plastica viene raccolta di giovedì
 ```
 ##### ESEMPIO 2
 ```
 Inserisci il materiale: Umido
 
-L'umido viene raccolto il Lunedì, il Mercoledì e il Venerdì.
+L'umido viene raccolto il lunedì, il mercoledì e il venerdì.
 ```
 ## b11. Case vacanza
 L'agenzia Casalmare affitta case di varie dimensioni e in vari mesi dell'anno e ha bisogno di un'applicazione da pubblicare sul suo sito web per permettere agli utenti di fare un preventivo.
