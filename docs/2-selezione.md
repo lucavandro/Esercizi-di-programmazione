@@ -11,6 +11,9 @@ Inserisci il secondo numero: 6
 6
 9
 ```
+
+##### [Soluzioni](soluzioni/b/b1.md)
+
 ## b2. Facciamo ordine 2 
 Scrivere un programma che, letti tre numeri in ingresso, li stampi in ordine crescente (cioè dal più piccolo al più grande).
 
@@ -24,6 +27,8 @@ Inserisci il terzo numero: 7
 7
 9
 ```
+
+##### [Soluzioni](soluzioni/b/b2.md)
 
 ## b3. Pari o dispari?
 Scrivere un programma che letto un numero in ingresso, stampi se è pari o se è dispari.
@@ -40,6 +45,9 @@ Inserisci un numero: 4
 
 Pari
 ```
+
+##### [Soluzioni](soluzioni/b/b3.md)
+
 ## b4. Triangoli
 I triangoli possono essere di tre tipi:
 
@@ -60,6 +68,9 @@ Inserisci il terzo lato: 4
 
 Il traingolo è isoscele e il suo perimetro misura 17
 ```
+
+##### [Soluzioni](soluzioni/b/b4.md)
+
 ## b5. Partita di calcio
 Scrivere un programma che legga in input i goal segnati dalla squadra di casa e i goal segnati dalla squadra ospite.
 Il programma stampa:
@@ -75,6 +86,9 @@ Goal segnati dalla squadra ospite: 1
 
 Vittoria
 ```
+
+##### [Soluzioni](soluzioni/b/b5.md)
+
 ## b6. Stasera pizza!
 Una pizzeria effettua consegne a domicilio. 
 Ogni pizza costa 5 Euro ai quali va aggiunto 1 Euro per il costo del trasporto. Se però si ordinano più di 5 pizze, il trasporto è gratuito.
@@ -92,6 +106,9 @@ Inserisci il numero di pizze: 6
 
 Il totale da pagare è 30 Euro
 ```
+
+##### [Soluzioni](soluzioni/b/b6.md)
+
 ## b7. Stasera pizza! 2
 Una pizzeria effettua consegne a domicilio. 
 Ogni pizza costa 5 Euro ai quali va aggiunto 1 Euro per il costo del trasporto. Se però si ordinano più di 5 pizze, il trasporto è gratuito.
@@ -117,6 +134,9 @@ Inserisci il numero di pizze: 15
 
 Il totale da pagare è 67.5 Euro
 ```
+
+##### [Soluzioni](soluzioni/b/b7.md)
+
 ## b8. Viaggio a Londra
 Pierferdinando, detto Pif, ha deciso di andare per la prima volta nella sua vita a Londra. In Inghilterra però non si usa l'Euro ma la Sterlina. Pif ha bisogno di un programma che gli consenta di convertire i prezzi da Euro a Sterlina e viceversa.
 
@@ -157,6 +177,9 @@ Inserisci moneta: K
 
 Errore: moneta sconosciuta
 ```
+
+##### [Soluzioni](soluzioni/b/b8.md)
+
 ## b9. Raccolta differenziata
 Il comune di Roncofritto ha avviato la raccolta differenziata e vuole progettare un'applicazione
 da mettere a disposizione dai cittadini per aiutarli nella raccolta.
@@ -180,6 +203,9 @@ Inserisci il giorno: giovedì
 
 Il giovedì si raccoglie la plastica.
 ```
+
+##### [Soluzioni](soluzioni/b/b9.md)
+
 ## b10. Raccolta differenziata 2
 L'app sviluppata dal comune di Roncofritto nell'esercizio n.8 ha avuto grandissimo successo!
 Ora il comune vuole aggiungere una nuova funzionalità all'app: vuole che l'app prenda in input il nome del materiale e mostri all'utente in che giorno è possibile effettuarne la raccolta.
@@ -196,6 +222,9 @@ Inserisci il materiale: Umido
 
 L'umido viene raccolto il lunedì, il mercoledì e il venerdì.
 ```
+
+##### [Soluzioni](soluzioni/b/b10.md)
+
 ## b11. Case vacanza
 L'agenzia Casalmare affitta case di varie dimensioni e in vari mesi dell'anno e ha bisogno di un'applicazione da pubblicare sul suo sito web per permettere agli utenti di fare un preventivo.
 Le tariffe per un giorno di permanenza seguono la seguente tabella.
@@ -240,6 +269,8 @@ Inserisci il numero di giorni di permanenza: 10
 
 Siamo spiacenti: non è possibile prenotare a Maggio, ma solo nei mesi di Giugno, Luglio e Agosto
 ```
+##### [Soluzioni](soluzioni/b/b11.md)
+
 ## b12. Equazioni
 Le equazioni di secondo grado sono del tipo
 
@@ -297,6 +328,9 @@ c: 9
 Il delta è uguale a -8
 Non esistono soluzioni per questa equazione.
 ```
+
+##### [Soluzioni](soluzioni/b/b12.md)
+
 ## b13. In perfetta forma!
 L'indice di massa corporea o BMI è un valore che ci consente di capire se siamo forma oppure se abbiamo bisogno di perdere o prendere peso.
 Il BMI si calcola a partire dall'altezza e dal peso di una persona utilizzando la seguente formula:
@@ -333,6 +367,9 @@ Inserisci peso: 50
 Il tuo BMI è 16.9 e la tua condizione è SOTTOPESO
 Il tuo peso ideale è di 65kg
 ```
+
+##### [Soluzioni](soluzioni/b/b13.md)
+
 ## b14. Benzina, Ibrido o Elettrico?
 Un sito di motori ha deciso di mettere a disposizione dei propri utenti che vogliono acquistare un'auto nuova uno software che li aiuti a sciegliere tra alimentazione a benzina, elettrica e ibrida.
 Per il suo funzionamento il software sfrutta la seguente tabella:
@@ -358,6 +395,8 @@ Ibrido:    4500 Euro l'anno
 Elettrico: 5500 Euro l'anno
 L'alimentazione consigliata è a benzina
 ```
+##### [Soluzioni](soluzioni/b/b14.md)
+
 ## b15. Un po' di geometria
 Scrivere un programma che stampi un menu che consenta di scegliere tra 4 forme geometriche:
 
@@ -433,6 +472,8 @@ Inserisci il raggio: 3
 La circonferenza del cerchio misura 18.84
 L'area del cerchio misura 28.26
 ```
+##### [Soluzioni](soluzioni/b/b15.md)
+
 ## b16. Il focaccione
 Il forno "Il focaccione" vende 3 tipi di focaccia:
 
@@ -453,6 +494,8 @@ Focacce al pomodoro 50%
 Focacce bianche 30%
 Focacce alle olive 20%
 ```
+##### [Soluzioni](soluzioni/b/b16.md)
+
 ## b17. Anni bisestili
 Un anno bisestile ha 366 giorni anzichè 365. Ogni 4 anni c'è un anno bisestile.
 Gli ultimi anni 3 bisestili sono stati:
@@ -480,6 +523,8 @@ Il 2019 NON è bisestile
 L'ultimo anno bisestile è stato il 2016
 Il prossimo anno bisestile sarà il 2020
 ```
+##### [Soluzioni](soluzioni/b/b17.md)
+
 ## b18. Il cappello parlante
 Il Cappello Parlante di Harry Potter è un oggetto magico utilizzato nella scuola di Hogwarts per assegnare ogni studente del primo anno ad una dlle quattro casate, cioè  Grifondoro, Tassorosso, Corvonero e Serpeverde.
 In realtà il cappello non è così magico come può sembrare: i fondatori di Howgwarts lo hanno programmato con un algoritmo che segue delle regole ben precise:
@@ -525,6 +570,8 @@ Inserisci il mese di nascita: 19
 
 ERRORE: 19 non è un valore valido per il campo mese di nascita
 ```
+##### [Soluzioni](soluzioni/b/b18.md)
+
 ## b19. Supereroi
 Ogni supereroe ha il suo alter-ego. Dai un'occhiata alla tabella qui sotto:
 
@@ -551,12 +598,14 @@ Inserisci il nome: Bruce Wayne
 
 Bruce Wayne è Batman!
 ```
+##### [Soluzioni](soluzioni/b/b19.md)
+
 ## b20. Bim, bum, bam!
-Hai mai giocato al gioco  **Bim, bum, bam** (detto anche **pari o dispari**)?  Due giocatori chiudono la mano a pugno: uno di essi si dichiara "pari", e l'altro risponde dichiarandosi "dispari"  (*o viceversa*). I due giocatori quindi aprono contemporaneamente la mano, mostrando con le dita un numero da 0 a 5. Se la somma dei due numeri mostrati è pari, vince il giocatore che aveva dichiarato "pari", e viceversa.
+Hai mai giocato al gioco  **Bim, bum, bam** (detto anche **pari o dispari**)?  Due giocatori chiudono la mano a pugno: uno di essi si dichiara "pari", e l'altro risponde dichiarandosi "dispari"  (*o viceversa*). I due giocatori quindi aprono contemporaneamente la mano, mostrando con le dita un numero da 1 a 5. Se la somma dei due numeri mostrati è pari, vince il giocatore che aveva dichiarato "pari", e viceversa.
 Prova a ricreare questo gioco utilizzando il computer come avversario, secondo la seguente modalità:
-- L'utente inserisce da tastiera un numero compreso tra 0 e 5 (*se l'utente inserisce un numero errato viene stampato un messaggio di errore*)
+- L'utente inserisce da tastiera un numero compreso tra 1 e 5 (*se l'utente inserisce un numero errato viene stampato un messaggio di errore*)
 - L'utente sceglie se essere pari o dispari
-- Il computer genera un numero a caso tra 0 e 5
+- Il computer genera un numero a caso tra 1 e 5
 - Alla fine il programma ti dirà se hai vinto o hai perso
 
 ##### ESEMPIO 1
@@ -587,6 +636,7 @@ Inserisci un numero tra 1 e 5: 7
 
 Errore: puoi inserire solo numeri compresi tra 0 e 5
 ```
+##### [Soluzioni](soluzioni/b/b20.md)
 
 ## b21. Morra cinese (Carta, Sasso, Forbici)
 Hai mai giocato alla **morra cinese** (detto anche **Carta, Sasso, Forbici**)?  Due giocatori chiudono la mano a pugno e contemporaneamente la riaprono mostrando uno dei sequenti segni: 
@@ -657,6 +707,8 @@ Scegli: 4
 
 Errore: 4 non è una scelta valida
 ```
+##### [Soluzioni](soluzioni/b/b21.md)
+
 ## b22. Testa o croce
 A volte l'indecisione è una sensazione logorante: meglio lasciare la decisione al fato!
 Scriviamo un programma che, utilizzando i numeri casuali, simuli il lancio di una monetina, stampando in maniera del tutto casuale la parola "Testa" o la parola "Croce"
@@ -672,3 +724,4 @@ Testa
 ```
 Croce
 ```
+##### [Soluzioni](soluzioni/b/b22.md)
