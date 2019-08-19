@@ -10,6 +10,10 @@ Scrivi un programma che stampi i numeri da 1 a 100.
 99
 100
 ```
+
+##### [Soluzioni](soluzioni/c/c1.md)
+
+
 ## c2. Contiamo al contrario!
 Scrivi un programma che stampi i numeri da 100 a 1
 
@@ -22,11 +26,15 @@ Scrivi un programma che stampi i numeri da 100 a 1
 2
 1
 ```
+
+##### [Soluzioni](soluzioni/c/c2.md)
+
+
 ## c3. Contiamo! 2
 Scrivi un programma che stampi i numeri da 1 ad un numero **n** inserito dall'utente.
 
 ##### Attenzione!
-Assicurati che l'utente inserisca un numero maggiore di 0 o il tuo programma potrebbe comportarsi in modo *"inaspettato"*
+Assicurati che l'utente inserisca un numero maggiore di 1 o il tuo programma potrebbe comportarsi in modo *"inaspettato"*
 
 ##### ESEMPIO 1
 ```
@@ -42,7 +50,7 @@ Inserisci un numero: 15
 ##### ESEMPIO 2
 ```
 Inserisci un numero: -5
-Errore: Devi inserire un numero maggiore di 0
+Errore: Devi inserire un numero maggiore di 1
 Inserisci un numero: 33
 
 1
@@ -52,6 +60,9 @@ Inserisci un numero: 33
 32
 33
 ```
+
+##### [Soluzioni](soluzioni/c/c3.md)
+
 
 ## c4. Contiamo! 3
 Scrivi un programma che stampi tutti i numeri compresi tra due valori a e b inseriti dall'utente.
@@ -84,6 +95,10 @@ Inserisci il valore di b: 4
 5
 4
 ```
+
+##### [Soluzioni](soluzioni/c/c4.md)
+
+
 ## c5. I numeri di Fibonacci
 I numeri di Fibonacci sono una successione di numeri individuata nel XIII secolo dal matematico italiano Leonardo Fibonacci. Questa serie è molto famosa e si vasa sulla seguente regola:
 
@@ -120,6 +135,10 @@ Guarda l'esempio e assicurati di avere ottenuto gli stessi numeri come risultato
 4181
 6765
 ```
+
+##### [Soluzioni](soluzioni/c/c5.md)
+
+
 ## c6. C'è posta per te
 Giulia ed Emilia consegnano la posta a via Roma dove ci sono 10 edifici: Giulia consegna la posta sul lato sinistro della strada dove ci sono i numeri civici pari, Emilia sul lato destro dove i numeri civici sono dispari.
 Emilia sostiene di lavorare molto di più di Giulia sostenendo che le lettere consegnate dal suo lato sono di più rispetto a quelle del lato di Giulia.
@@ -182,6 +201,9 @@ Emilia ha consegnato 22 lettere
 Emilia e Giulia lavorano allo stesso modo.
 ```
 
+##### [Soluzioni](soluzioni/c/c6.md)
+
+
 ## c7. Consegne a domicilio
 Luca consegna pasti a domicilio con la sua bici. Spesso i clienti gli lasciano una mancia e lui ha deciso di creare un programma per tenere un piccolo bilancio dei soldi guadagnati con le mance.
 Scrivere un programma che legga i valori delle mance guadagnate da Luca fino a quando non viene inserito un valore minore di 0. 
@@ -206,6 +228,9 @@ Hai guadagnato 10 Euro di mancia
 Il valore medio di una mancia è di 3 euro
 Il 75% dei clienti ha lasciato una mancia
 ```
+
+##### [Soluzioni](soluzioni/c/c7.md)
+
 
 ## c8. Il fattoriale
 Il fattoriale di un numero è uguale al prodotto di un numero naturale per tutti i suoi predecessori. L'unica eccezione è il fattoriale di 0 che è pari a 1.
@@ -244,6 +269,10 @@ Inserisci un numero: 0
 
 0! = 1
 ```
+
+##### [Soluzioni](soluzioni/c/c8.md)
+
+
 ## c9. Indovina il numero
 Un programma genera un numero casuale tra 1 e 100, ma senza mostrarlo a video: sarà l'utente a doverlo indovinare! Il gioco prosegue fino a quando l'utente non indovina il numero.
 Ad ogni tentativo il computer mostra un aiuto:
@@ -266,6 +295,9 @@ Indovina il numero: 26
 HAI VINTO!
 Hai effettuato 4 tentativi
 ```
+
+##### [Soluzioni](soluzioni/c/c9.md)
+
 
 ## c10. Indovina il numero 2
 Un programma genera un numero casuale tra 1 e 100, ma senza mostrarlo a video: sarà l'utente a doverlo indovinare! L'utente ha a disposizione 3 tentativi.
@@ -306,6 +338,9 @@ Fuochino
 
 HAI PERSO! Il numero giusto era 26
 ```
+
+##### [Soluzioni](soluzioni/c/c10.md)
+
 
 
 ## c11. Il bancomat
@@ -363,6 +398,9 @@ Inserisci la tua scelta: 4
 ARRIVEDERCI!
 ```
 
+##### [Soluzioni](soluzioni/c/c11.md)
+
+
 ## c12. Il distributore di caffè
 In un distributore automatico, un caffè costa 50 cent. Il distributore accetta solo monete da 5, 10 e 20 cent.
 Scrivere un programma che legga le monete inserite da un cliente e che rispetti i seguenti requisiti:
@@ -401,6 +439,10 @@ Inserisci una moneta: 10
 Caffè erogato
 Resto 0 cent.
 ```
+
+##### [Soluzioni](soluzioni/c/c12.md)
+
+
 ## c13. Il distributore di caffè 2
 In un distributore automatico:
 
@@ -455,6 +497,9 @@ Inserisci una moneta: 20
 Caffè decaffeinato erogato
 Resto 0 cent.
 ```
+
+##### [Soluzioni](soluzioni/c/c13.md)
+
 
 
 
