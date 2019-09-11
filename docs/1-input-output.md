@@ -8,7 +8,7 @@ Scrivere un programma che, letto un numero in ingresso, stampi il precedente e i
 Inserisci un numero: 2
 
 Precedente 1
-Successivo 2
+Successivo 3
 ```
 ##### [Soluzioni](soluzioni/a/a1.md)
 
