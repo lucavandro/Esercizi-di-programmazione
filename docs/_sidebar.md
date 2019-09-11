@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-<img src="/_media/logo.png" data-origin="_media/logo.png" alt="logo">
+<img src="/images/logo.png" data-origin="/images/logo.png" alt="logo">
 
 * Esercizi
 
