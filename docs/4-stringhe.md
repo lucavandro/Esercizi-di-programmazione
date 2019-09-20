@@ -160,11 +160,13 @@ Codice fiscale NON valido
 ## d7. Codici segreti 1
 Giulio Cesare inventò un semplice sistema per rendere i suoi messaggi incomprensibili ai nemici che ne fossero entrati in possesso: sostituiva ogni lettera alfabetica di un messaggio con la successiva.
 
+```
 a -> b
 b -> c
 c -> d
 ....
 z -> a
+```
 
 Spazi e punteggiaura venivano preservati.
 
