@@ -2,7 +2,7 @@
 Scrivi un programma che data in input una stringa stampi il primo carattere in essa
 contenuto
 
-<a href="/test/d/d1.py" download>Python Tester</a>
+<a href="https://raw.githubusercontent.com/lucavandro/Esercizi-di-programmazione/master/docs/test/d/d1.py" download>Python Tester</a>
 
 ##### ESEMPIO 1
 ```
@@ -23,7 +23,7 @@ p
 ## d2. Tagliamo a corto
 Giulia dirige un giornale online. I suoi giornalisti però sono troppo prolissi e molto spesso scrivono articoli che hanno un titolo troppo lungo. Giulia decide di fissare la lunghezza massima per un titolo a 25 caratteri compresi gli spazi: tutti i titoli più lunghi verranno abbreviati con 3 puntini sospensivi "..." in modo che titolo abbreviato e 3 puntini sospensivi rientri comunque in un massimo di 25 caratteri.
 
-<a href="/test/d/d2.py" download>Python Tester</a>
+<a href="https://raw.githubusercontent.com/lucavandro/Esercizi-di-programmazione/master/docs/test/d/d2.py" download>Python Tester</a>
 
 ##### ESEMPIO 1
 ```
@@ -51,7 +51,7 @@ Una password è considerata sicura se rispetta tutti i seguenti criteri:
 
 Scrivere un programma che data una password in ingresso, ritorni True se la password rispetta tutti i criteri. In caso non rispetti anche solo 1 criterio, ritorna False.
 
-<a href="/test/d/d3.py" download>Python Tester</a>
+<a href="https://raw.githubusercontent.com/lucavandro/Esercizi-di-programmazione/master/docs/test/d/d3.py" download>Python Tester</a>
 
 ##### ESEMPIO 1
 ```
@@ -94,7 +94,7 @@ A volte trovare una password sicura è davvero difficile! Una tecnica comune è 
 
 Inoltre se la password non arriva ad 8 caratteri di lunghezza, vengono aggiunti una serie di simboli "#" alla fine della password in modo da raggiungere la lunghezza standard di 8 caratteri.
 
-<a href="/test/d/d4.py" download>Python Tester</a>
+<a href="https://raw.githubusercontent.com/lucavandro/Esercizi-di-programmazione/master/docs/test/d/d4.py" download>Python Tester</a>
 
 ##### ESEMPIO 1
 ```
@@ -118,7 +118,7 @@ Un codice fiscale dovrebbe essere composto solo da lettere maiuscole e numeri. M
 
 Scrivere un programma che dato in ingresso un codice fiscale contenente una o più lettere minuscole, stampi il codice fiscale corretto con tutte le lettere maiuscole.
 
-<a href="/test/d/d5.py" download>Python Tester</a>
+<a href="https://raw.githubusercontent.com/lucavandro/Esercizi-di-programmazione/master/docs/test/d/d5.py" download>Python Tester</a>
 
 ##### ESEMPIO 1
 ```
@@ -147,7 +147,7 @@ Un codice fiscale è una stringa che risponde alle seguenti caratteristiche:
 
 Scrivere un programma che dato un codice fiscale stabilisca se è valido oppure no.
 
-<a href="/test/d/d6.py" download>Python Tester</a>
+<a href="https://raw.githubusercontent.com/lucavandro/Esercizi-di-programmazione/master/docs/test/d/d6.py" download>Python Tester</a>
 
 ##### ESEMPIO 1
 ```
@@ -185,7 +185,7 @@ Spazi e punteggiaura venivano preservati. Si considerino solo le lettere dell'al
 
 Scrivere un programma che dato una stringa contenente un messaggio in chiaro la decodifichi utilizzando le regole stabilite da Giulio Cesare.
 
-<a href="/test/d/d7.py" download>Python Tester</a>
+<a href="https://raw.githubusercontent.com/lucavandro/Esercizi-di-programmazione/master/docs/test/d/d7.py" download>Python Tester</a>
 
 ##### ESEMPIO 1
 ```
@@ -206,7 +206,7 @@ Il codice inventato da Giulio Cesare è molto sicuro infatti nessuno dei suoi ne
 
 Scrivi un programma per gli amici di Giulio Cesare che data una stringa codificata secondo le regole stabilite nel esercizio precedente, la converta nella sua forma originale.
 
-<a href="/test/d/d8.py" download>Python Tester</a>
+<a href="https://raw.githubusercontent.com/lucavandro/Esercizi-di-programmazione/master/docs/test/d/d8.py" download>Python Tester</a>
 
 ##### ESEMPIO 1
 ```
@@ -225,7 +225,7 @@ Caramella
 ## d9. Al contrario
 Scrivere un programma che data una stringa in input, la scriva al contrario ovvero da destra verso sinistra.
 
-<a href="/test/d/d9.py" download>Python Tester</a>
+<a href="https://raw.githubusercontent.com/lucavandro/Esercizi-di-programmazione/master/docs/test/d/d9.py" download>Python Tester</a>
 
 ##### ESEMPIO 1
 ```
@@ -247,7 +247,7 @@ Alcuni esempi di palindromo sono le parole: Anna, oro, radar, ossesso.
 
 Scrivere un programma che data una parola stabilisca se è palindroma o meno.
 
-<a href="/test/d/d10.py" download>Python Tester</a>
+<a href="https://raw.githubusercontent.com/lucavandro/Esercizi-di-programmazione/master/docs/test/d/d10.py" download>Python Tester</a>
 
 ##### ESEMPIO 1
 ```
