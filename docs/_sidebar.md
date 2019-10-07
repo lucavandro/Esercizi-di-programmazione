@@ -7,6 +7,7 @@
     * [Input/Output](1-input-output.md)
     * [Selezione](2-selezione.md)
     * [Cicli](3-cicli.md)
-    * [Le stringhe](4-stringhe.md)
+    * [Stringhe](4-stringhe.md)
+    * [Dizionari](5-dizionari.md)
 
 * <a id="pwa" class="" href="javascript:void(0)"><b>Versione offline</b></a>
