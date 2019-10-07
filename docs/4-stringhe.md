@@ -292,3 +292,55 @@ Inserisci una la lista della spesa: pane, latte, pasta, fette biscottate, marmel
 4. Pane
 5. Pasta
 ```
+
+## d12. Conta parole
+Data una stringa di parole separate da uno spazio, creare un programma che conti quante parole sono contenute 
+nella stringa.
+
+##### ESEMPIO 1
+```
+Inserisci una frase: Viva la pizza con la nutella
+
+Parole: 6
+```
+
+##### ESEMPIO 2
+```
+Inserisci una frase: Il dado è tratto
+
+Parole: 4
+```
+
+## d13. Conta parole 2
+Data una stringa di parole separate da uno spazio, creare un programma che conti quante parole diverse (cioè senza duplicati)sono contenute nella stringa.
+
+##### ESEMPIO 1
+```
+Inserisci una frase: Viva la pizza con la nutella
+
+Parole: 5
+```
+
+##### ESEMPIO 2
+```
+Inserisci una frase: La la la
+
+Parole: 1
+```
+
+## d14. Trova la parola più lungua
+Data una stringa di parole separate da uno spazio, creare un programma che trovi all'interno della stringa la parola più lunga (cioè qualla con il maggior numero di caratteri).
+
+##### ESEMPIO 1
+```
+Inserisci una frase: Viva la pizza con la nutella
+
+Parole più lunga: nutella
+```
+
+##### ESEMPIO 2
+```
+Inserisci una frase: Mary Poppins diceva supercalifragilistichespiralidoso
+
+Parole più lunga: supercalifragilistichespiralidoso
+```
