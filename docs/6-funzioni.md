@@ -30,7 +30,32 @@ Creare una funziona chiamata *pitagora* che prende in input le misure di due cat
 13
 ```
 
-## f3. Compito in classe
+## f3. Il gioco dei dadi
+Vogliamo simulare il lancio dei dadi. Per farlo vogliamo
+1. Creare una funzione chiamata *dado* che ritorna un numero casuale compreso tra 1 e 6. 
+2. Creare una funzione chiamata *leggi_dadi* che chieda all'utente quanti dadi vuole lanciare e restituisca il risultato sottoforma di numero intero
+3. Creare una funzione chiamata *lancia_dadi" che accetta come parametro un numero di dadi e restitutisca un array contenente il risultato dei lanci effettuati
+4. Creare una funzione chaimata *calcola_risultato* che accetta come parametro un array di interi e restituisca la somma.
+Il programma dovrà inoltre stampare il numero generato dal lancio di ciascun dado e il risultato finale.
+
+##### ESEMPIO 1
+```
+> Quanti dadi vuoi lanciare?
+2
+> 5, 4
+> Risultato = 9
+```
+
+##### ESEMPIO 
+```
+> Quanti dadi vuoi lanciare?
+4
+> 3, 2, 6, 1
+> Risultato = 12
+```
+
+
+## f4. Compito in classe
 Il prof. Furio è amante delle statistiche. Infatti ogni volta che effettua un compito in classe registra i voti dei propri allievi ed effettua una serie di calcoli:
 - calcola la media dei voti
 - quanti alunni hanno ottenuto un voto sopra la media
