@@ -10,6 +10,6 @@
     * [Stringhe](4-stringhe.md)
     * [Dizionari](5-dizionari.md)
     * [Funzioni](6-funzioni.md)
-    * [Classi e oggetti](7-OOP.md)
+    * [Classi e oggetti](7-oop.md)
 
 * <a id="pwa" class="" href="javascript:void(0)"><b>Versione offline</b></a>
