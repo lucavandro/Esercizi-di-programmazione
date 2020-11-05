@@ -1,5 +1,5 @@
 ## g1. Quadrato
-Creare una classe chiamata *Quadrato*. La classe è costituta da un membro privato chiamato lato e da 3 metodi pubblici:
+Creare una classe chiamata *Quadrato*. La classe è costituta da un membro privato chiamato lato e da 3 metodi publici:
 1. perimetro() che calcola il perimetro
 2. area() che calcola l'area
 3. diagonale() che calcola la diagonale()
