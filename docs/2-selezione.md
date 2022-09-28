@@ -305,7 +305,7 @@ b: -2
 c: 1
 
 Il delta è uguale a 0
-Le soluzioni sono reali e coincidenti e corrisponsodono a 
+Le soluzioni sono reali e coincidenti e corrispondono a 
 x1=x2=1
 ```
 ##### ESEMPIO 2
@@ -315,7 +315,7 @@ b: -5
 c: 4
 
 Il delta è uguale a 9
-Le soluzioni sono reali e distinte e corrisponsodono a: 
+Le soluzioni sono reali e distinte e corrispondono a: 
 x1=4
 x2=1
 ```
@@ -325,7 +325,7 @@ a: 1
 b: 1
 c: 9
 
-Il delta è uguale a -8
+Il delta è uguale a -35
 Non esistono soluzioni per questa equazione.
 ```
 
