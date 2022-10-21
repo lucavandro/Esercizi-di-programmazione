@@ -50,7 +50,7 @@ Effettuare le seguenti operazioni
 ## g3. Il sistemino
 Dato il seguente sistema lineare:
 
-![image](docs/images/g/s1.jpg)
+![image](images/g/s1.jpg)
 
 Definire:
 * La matrice A dei coefficienti
