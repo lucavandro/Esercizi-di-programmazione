@@ -11,7 +11,7 @@ Scrivi un programma che stampi i numeri da 1 a 100.
 100
 ```
 
-##### [Soluzioni](soluzioni/c/c1.md)
+<!-- ##### [Soluzioni](soluzioni/c/c1.md) -->
 
 
 ## c2. Contiamo al contrario!
@@ -27,7 +27,7 @@ Scrivi un programma che stampi i numeri da 100 a 1
 1
 ```
 
-##### [Soluzioni](soluzioni/c/c2.md)
+<!-- ##### [Soluzioni](soluzioni/c/c2.md) -->
 
 
 ## c3. Contiamo! 2
@@ -61,7 +61,7 @@ Inserisci un numero: 33
 33
 ```
 
-##### [Soluzioni](soluzioni/c/c3.md)
+<!-- ##### [Soluzioni](soluzioni/c/c3.md) -->
 
 
 ## c4. Contiamo! 3
@@ -96,7 +96,7 @@ Inserisci il valore di b: 4
 4
 ```
 
-##### [Soluzioni](soluzioni/c/c4.md)
+<!-- ##### [Soluzioni](soluzioni/c/c4.md) -->
 
 
 ## c5. I numeri di Fibonacci
@@ -136,7 +136,7 @@ Guarda l'esempio e assicurati di avere ottenuto gli stessi numeri come risultato
 6765
 ```
 
-##### [Soluzioni](soluzioni/c/c5.md)
+<!-- ##### [Soluzioni](soluzioni/c/c5.md) -->
 
 
 ## c6. C'è posta per te
@@ -201,7 +201,7 @@ Emilia ha consegnato 22 lettere
 Emilia e Giulia lavorano allo stesso modo.
 ```
 
-##### [Soluzioni](soluzioni/c/c6.md)
+<!-- ##### [Soluzioni](soluzioni/c/c6.md) -->
 
 
 ## c7. Consegne a domicilio
@@ -229,7 +229,7 @@ Il valore medio di una mancia è di 3 euro
 Il 75% dei clienti ha lasciato una mancia
 ```
 
-##### [Soluzioni](soluzioni/c/c7.md)
+<!-- ##### [Soluzioni](soluzioni/c/c7.md) -->
 
 
 ## c8. Il fattoriale
@@ -270,7 +270,7 @@ Inserisci un numero: 0
 0! = 1
 ```
 
-##### [Soluzioni](soluzioni/c/c8.md)
+<!-- ##### [Soluzioni](soluzioni/c/c8.md) -->
 
 
 ## c9. Indovina il numero
@@ -296,7 +296,7 @@ HAI VINTO!
 Hai effettuato 4 tentativi
 ```
 
-##### [Soluzioni](soluzioni/c/c9.md)
+<!-- ##### [Soluzioni](soluzioni/c/c9.md) -->
 
 
 ## c10. Indovina il numero 2
@@ -339,7 +339,7 @@ Fuochino
 HAI PERSO! Il numero giusto era 26
 ```
 
-##### [Soluzioni](soluzioni/c/c10.md)
+<!-- ##### [Soluzioni](soluzioni/c/c10.md) -->
 
 
 
@@ -398,7 +398,7 @@ Inserisci la tua scelta: 4
 ARRIVEDERCI!
 ```
 
-##### [Soluzioni](soluzioni/c/c11.md)
+<!-- ##### [Soluzioni](soluzioni/c/c11.md) -->
 
 
 ## c12. Il distributore di caffè
@@ -440,7 +440,7 @@ Caffè erogato
 Resto 0 cent.
 ```
 
-##### [Soluzioni](soluzioni/c/c12.md)
+<!-- ##### [Soluzioni](soluzioni/c/c12.md) -->
 
 
 ## c13. Il distributore di caffè 2
@@ -498,7 +498,7 @@ Caffè decaffeinato erogato
 Resto 0 cent.
 ```
 
-##### [Soluzioni](soluzioni/c/c13.md)
+<!-- ##### [Soluzioni](soluzioni/c/c13.md) -->
 
 
 

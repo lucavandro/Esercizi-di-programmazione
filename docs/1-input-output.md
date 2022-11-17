@@ -10,7 +10,7 @@ Inserisci un numero: 2
 Precedente 1
 Successivo 3
 ```
-##### [Soluzioni](soluzioni/a/a1.md)
+<!-- ##### [Soluzioni](soluzioni/a/a1.md) -->
 
 
 ## a2. Il quadrato
@@ -23,7 +23,7 @@ Inserisci un numero: 3
 Il quadrato di 3 è 9
 ```
 
-##### [Soluzioni](soluzioni/a/a2.md)
+<!-- ##### [Soluzioni](soluzioni/a/a2.md) -->
 
 ## a3. Il rettangolo
 Scrivere un programma che legga in input la base e l'altezza di un rettangolo e stampi il suo perimetro
@@ -37,7 +37,7 @@ Perimetro = 16
 Area = 15
 ```
 
-##### [Soluzioni](soluzioni/a/a3.md)
+<!-- ##### [Soluzioni](soluzioni/a/a3.md) -->
 
 ## a4. La classifica del campionato
 Nelle competizioni calcistiche ad ogni squadra vengono assegnati 3 punti per ogni vittoria,1 punto per ogni pareggio, 0 punti per ogni sconfitta. Scrivi un programma che legga il numero di vittorie, il numero di pareggi e il numero di sconfitte di una squadra di calcio e stampi quanti punti ha ottenuto in totale.
@@ -51,7 +51,7 @@ Inserisci il numero di sconfitte: 0
 Punti totali 13
 ```
 
-##### [Soluzioni](soluzioni/a/a4.md)
+<!-- ##### [Soluzioni](soluzioni/a/a4.md) -->
 
 ## a5. Il consumo di un'auto
 Un'automobile consuma 5 litri per percorrere 100km. Un litro di benzina costa 1.6 Euro. Dato in input la lunghezza di un tragitto espressa in km, calcolare e stampare:
@@ -66,7 +66,7 @@ Litri di benzina consumati 7.5
 Costo totale del carburante 12 Euro
 ```
 
-##### [Soluzioni](soluzioni/a/a5.md)
+<!-- ##### [Soluzioni](soluzioni/a/a5.md) -->
 
 
 ## a6. Il consumo di un'auto 2
@@ -91,7 +91,7 @@ Litri di benzina consumati 6
 Costo totale del carburante 8.4 Euro
 ```
 
-##### [Soluzioni](soluzioni/a/a6.md)
+<!-- ##### [Soluzioni](soluzioni/a/a6.md) -->
 
 
 ## a7. Calorie
@@ -118,7 +118,7 @@ Inserisci i grammi di grassi: 3
 Apporto calorico 73kcal
 ```
 
-##### [Soluzioni](soluzioni/a/a7.md)
+<!-- ##### [Soluzioni](soluzioni/a/a7.md) -->
 
 
 ## a8. Teorema di Pitagora
@@ -140,7 +140,7 @@ Inserisci la misura del secondo cateto: 3
 L'ipotenusa misura 5
 ```
 
-##### [Soluzioni](soluzioni/a/a8.md)
+<!-- ##### [Soluzioni](soluzioni/a/a8.md) -->
 
 
 ## a9. Saldi
@@ -161,7 +161,7 @@ Inserisci la percentuale di sconto: 30
 Il prezzo scontato è 70 Euro
 ```
 
-##### [Soluzioni](soluzioni/a/a9.md)
+<!-- ##### [Soluzioni](soluzioni/a/a9.md) -->
 
 ## a10. Saldi 2
 Finita la stagione dei saldi, un negozio ha bisogno di un programma per rimuovere lo sconto dai prezzi dei suoi prodotti e riportarli al prezzo originario.
@@ -181,7 +181,7 @@ Inserisci la percentuale di sconto: 30
 Il prezzo originario è 100 Euro
 ```
 
-##### [Soluzioni](soluzioni/a/a10.md)
+<!-- ##### [Soluzioni](soluzioni/a/a10.md) -->
 
 
 ## a11. Le divisioni alle elementari
@@ -203,7 +203,7 @@ Il quoziente è 3
 Il resto è 1
 ```
 
-##### [Soluzioni](soluzioni/a/a11.md)
+<!-- ##### [Soluzioni](soluzioni/a/a11.md) -->
 
 ## a12. Peso ideale
 Esistono vari modi per calcolare il peso ideale di una persona. Uno di questi utilizza la seguente formula
@@ -219,7 +219,7 @@ Inserisci altezza: 1.70
 Il tuo peso ideale è 63.58 kg
 ```
 
-##### [Soluzioni](soluzioni/a/a12.md)
+<!-- ##### [Soluzioni](soluzioni/a/a12.md) -->
 
 ## a13. Maratona TV
 Caterina e Luca sono grandi appassionati di serie tv. Questo weekend vogliono vedere una serie TV ma vorrebbero sapere quante ore saranno neccessarie per vedere tutti gli episodi di tutte le
@@ -242,7 +242,7 @@ Inserisci la durata di ogni episodio (in minuti): 42
 Per vedere l'intera serie saranno necessarie 33 ore e 36 minuti
 ```
 
-##### [Soluzioni](soluzioni/a/a13.md)
+<!-- ##### [Soluzioni](soluzioni/a/a13.md) -->
 
 ## a14. Somma dei numeri da 1 a n
 Scrivere un programma che dato in input un numero n, stampi la somma dei numeri da 1 a n.
@@ -256,7 +256,7 @@ Inserisci un numero: 100
 
 La somma dei numeri da 1 a 100 è 5050
 ```
-##### [Soluzioni](soluzioni/a/a14.md)
+<!-- ##### [Soluzioni](soluzioni/a/a14.md) -->
 
 ## a15. Numeri a caso
 Scrivere un programma che stampi un numero a caso compreso tra un valore minimo e un valore massimo forniti in input.
@@ -279,7 +279,7 @@ Inserisci il massimo: 20
 Il numero generato è 18
 ```
 
-##### [Soluzioni](soluzioni/a/a15.md)
+<!-- ##### [Soluzioni](soluzioni/a/a15.md) -->
 
 ## a16. Il birrificio
 Il birrificio "ScaccoMalto" acquista dai suoi clienti le bottiglie di birra vuote a 10 centesimi l'una.
@@ -307,7 +307,7 @@ Con 64 bottiglie riempirai 10 cassette
 Il prezzo pagato sarà di 6 euro
 Avanzano 4 bottiglie
 ```
-##### [Soluzioni](soluzioni/a/a16.md)
+<!-- ##### [Soluzioni](soluzioni/a/a16.md) -->
 
 ## a17. Gradi e radianti
 Gli angolo possono essere misurati sia in gradi che radianti. 180 gradi equivalgono a circa 3.14 radianti.
@@ -319,7 +319,7 @@ Inserisci la misura di un angolo in gradi: 90
 
 90 gradi equivalgono a circa 1.57 radianti
 ```
-##### [Soluzioni](soluzioni/a/a17.md)
+<!-- ##### [Soluzioni](soluzioni/a/a17.md) -->
 
 ## a18. Gradi e radianti 2
 Gli angolo possono essere misurati sia in gradi che radianti. 180 gradi equivalgono a circa 3.14 radianti.
@@ -332,7 +332,7 @@ Inserisci la misura di un angolo in radianti: 1
 1 radianti equivalgono a circa 57.32 gradi
 ```
 
-##### [Soluzioni](soluzioni/a/a18.md)
+<!-- ##### [Soluzioni](soluzioni/a/a18.md) -->
 
 ## a19. Basket
 In una partita di basket i punti vengono assegnati secondo le seguenti regole:
@@ -351,6 +351,6 @@ Canestri da fuori area: 2
 I punti totali sono 16
 ```
 
-##### [Soluzioni](soluzioni/a/a19.md)
+<!-- ##### [Soluzioni](soluzioni/a/a19.md) -->
 
 
