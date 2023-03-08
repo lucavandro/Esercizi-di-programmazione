@@ -1,4 +1,4 @@
-## g1. Le prime matrici non si scordano mai
+## h1. Le prime matrici non si scordano mai
 Realizzare in octave le seguenti matrici
 
 *A*
@@ -21,7 +21,7 @@ Realizzare in octave le seguenti matrici
 | 4 |
 | 5 |
 
-## g2. Operazioni con le matrici
+## h2. Operazioni con le matrici
 Definite le seguenti matrici
 
 *A*
@@ -47,7 +47,7 @@ Effettuare le seguenti operazioni
 3. A*B
 4. B*C
 
-## g3. Il sistemino
+## h3. Il sistemino
 Dato il seguente sistema lineare:
 
 ![image](images/g/s1.jpg)

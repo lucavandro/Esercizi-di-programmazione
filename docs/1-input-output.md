@@ -353,4 +353,35 @@ I punti totali sono 16
 
 <!-- ##### [Soluzioni](soluzioni/a/a19.md) -->
 
+## a20. La Tesla
+Camillo ha comprato una nuova macchina con motore elettrico. La batteria ha una capacità di 100kWh grazie alla quale riesce a percorrere 600km. Sapendo che un kWh di energia costa 0.39 Euro,
+scrivere un programma che legga in input la lunghezza del tragitto e stampi:
+- il numero di volte in cui la macchina dovrà essere ricaricata
+- i kWh consumati
+- il costo totale dell'energia utilizzata
+
+**Attenzione**
+kWh si scrive con la W maiuscola!
+
+##### ESEMPIO 1
+```
+Inserisci la durata del percorso in km: 900
+Numero di ricariche necessarie: 2
+kWh consumati: 150.0 
+costo: 58.50 Euro
+```
+
+<!-- ##### [Soluzioni](soluzioni/a/a19.md) -->
+
+
+## 21.Speed up
+Molti studenti del prof. Vandro, per visualizzare più velocemente le sue lezioni su youtube, impostano la velocità di riproduzione a 1.25x (che consente di vedere il video il 25% più velocemente).
+Scrivi un programma che chieda di inserire la durata di un video (espressa in minuti e secondi) e stampi la durata "effettiva" del video velocizzato a 1.25x
+
+##### ESEMPIO
+```
+Inserisci i minuti: 10
+Inserisci i secondi: 30
+La durata effettiva è di 8 minuti e 24 secondi
+```
 

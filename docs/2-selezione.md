@@ -725,3 +725,46 @@ Testa
 Croce
 ```
 <!-- ##### [Soluzioni](soluzioni/b/b22.md) -->
+
+## b23. La Pasqua
+Nel 1800 il matematico tedesco Carl Friedrich Gauss (❤️) inventò un algoritmo per calcolare la data della Pasqua.
+
+L'algoritmo funziona nel seguente modo:
+L'anno di cui si calcola la Pasqua sia contrassegnato da Y; mod è l'operatore modulo che restituisce il resto della divisione fra numeri interi (ad esempio, 13 mod 5 = 3 perché 13 diviso 5 fa 2 con resto 3).
+
+Si calcolano dapprima a, b e c nel seguente modo:
+
+a = Y mod 19
+b = Y mod 4
+c = Y mod 7
+
+Poi si calcolano
+
+d = (19a + M) mod 30
+e = (2b + 4c + 6d + N) mod 7
+
+Dove M e N vanno calcolati secondo la seguente tabella
+| Anni      | M  | N|
+|-----------|----|----|
+| 1583-1699 | 22 | 2 |
+| 1700-1799 | 23 | 3 |
+| 1800-1899 | 23 | 4 |
+| 1900-2099 | 24 | 5 |
+| 2100-2199 | 24 | 6 |
+| 2200-2299 | 25 | 0 |
+| 2300-2399 | 26 | 1 |
+| 2400-2499 | 25 | 1 |
+
+
+Se (d + e) < 10, allora la Pasqua cade il giorno (d + e + 22) del mese di marzo, altrimenti si verificherà il (d + e − 9)-esimo giorno del mese di aprile.
+
+Scrivere un programma che legga in input l'anno e calcoli la data della Pasqua sfruttando l'algoritmo di Gauss.
+
+
+##### ESEMPIO 1
+```
+Inserisci l'anno: 1987
+19 aprile 1987
+```
+
+<!-- ##### [Soluzioni](soluzioni/b/b22.md) -->
