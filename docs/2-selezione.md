@@ -634,16 +634,16 @@ Complimenti! HAI VINTO!
 ```
 Inserisci un numero tra 1 e 5: 7
 
-Errore: puoi inserire solo numeri compresi tra 0 e 5
+Errore: puoi inserire solo numeri compresi tra 1 e 5
 ```
 <!-- ##### [Soluzioni](soluzioni/b/b20.md) -->
 
 ## b21. Morra cinese (Carta, Sasso, Forbici)
 Hai mai giocato alla **morra cinese** (detto anche **Carta, Sasso, Forbici**)?  Due giocatori chiudono la mano a pugno e contemporaneamente la riaprono mostrando uno dei sequenti segni: 
 
-- mano aperta (**Carta**)
-- mano  chiusa (**Sasso**)
-- mano chiusa con indice e medio estesi a formare una "V" (**Forbici**)
+- mano aperta (**Carta**) 🫱
+- mano chiusa (**Sasso**)👊
+- mano chiusa con indice e medio estesi a formare una "V" (**Forbici**)✌️
 
 Lo scopo è sconfiggere l'avversario scegliendo un segno in grado di battere quello dell'altro, secondo le seguenti regole:
 
