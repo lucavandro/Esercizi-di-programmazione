@@ -14,3 +14,16 @@ Inserisci il quarto numero: 5
 9
 
 **Si consiglia di non utilizzare if/else**
+
+
+## i2. Testa/coda
+Scrivere un programma che legga una lista di 3 elementi e crei una lista in cui il primo elemento inserito è all'ultimo posto e l'ultimo al primo posto.
+
+##### ESEMPIO
+```
+Inserisci il primo elemento: "Qui"
+Inserisci il secondo elemento: "Quo"
+Inserisci il terzo elemento: "Qua"
+
+["Qua", "Quo", "Qui"]
+```

@@ -344,3 +344,42 @@ Inserisci una frase: Mary Poppins diceva supercalifragilistichespiralidoso
 
 Parole più lunga: supercalifragilistichespiralidoso
 ```
+
+## d.15 I numeri narcisistici
+Un numero narcisistico (o numero di Armstrong) è un numero positivo che è la somma delle sue stesse cifre, ciascuna elevata alla potenza del numero di cifre in una data base. 
+
+Ad esempio, prendi 153 (3 cifre), che è narcisistico:
+
+    1<sup>3</sup> + 5<sup>3</sup> + 3<sup>3</sup> = 1 + 125 + 27 = 153
+e 1652 (4 cifre), che non è:
+
+    1<sup>4</sup> + 6<sup>4</sup> + 5<sup>4</sup> + 2<sup>4</sup> = 1 + 1296 + 625 + 16 = 1938
+
+Il tuo codice deve restituire vero o falso seconda che un numero inserito dall'utente sia narcisistico o meno.
+
+##### ESEMPIO 1
+```
+Inserisci una numero: 153
+True
+```
+
+##### ESEMPIO 2
+```
+Inserisci una numero: 12
+False
+```
+
+# d.16 Codice alfabetico
+Scrivere un programma che legga una stringa e che sostituisca ogni lettera al suo interno con la sua posizione nell'alfabeto (si consideri l'alfabeto italiano). Gli spazi o eventuali caratteri speciali (virgole, punti, apostrofi etc.) vanno ignorati
+
+##### ESEMPIO 1
+```
+Inserisci una parola: pizza
+14 9 21 21 1
+```
+
+##### ESEMPIO 2
+```
+Inserisci una parola: nutella
+12 19 18 5 10 10 1
+```
