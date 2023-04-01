@@ -219,3 +219,14 @@ Quale operazione vuoi effettuare? 1
 
 1
 ```
+
+## f11. conta_vocali
+Creare una funzione *conta_vocali* che prende come parametro un stringa e restituisce il numero di vocali in essa contenute.
+
+##### ESEMPIO 1
+```
+> conta_vocali("abaco")
+3
+> conta_vocali("mamma")
+2
+```
