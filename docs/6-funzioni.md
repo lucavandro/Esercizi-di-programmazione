@@ -230,3 +230,19 @@ Creare una funzione *conta_vocali* che prende come parametro un stringa e restit
 > conta_vocali("mamma")
 2
 ```
+
+## f12. RGB 
+In informatica i colori vengono rappresentati utilizzando il modello RGB, in cui i colori sono descritti dalla somma di 3 colori:
+- Rosso **R**ed
+- Verde **G**reen
+- Blu **B**lue
+Ognuno di questi tre colori viene rappresentato con un numero che va da 0 a 255.
+Spesso per rendere piu` compatta la descrizione di un colore, si utilizza la notazione esadecimale, in cui, il numero di ciascun colore, viene tradotto in un numero esadecimale di 2 cifre e scritti uno accanto all'altro.
+
+Scrivere la funzione RGB che prenda in input 3 numeri interi in base 10 (r,g,b) e ritorni la codifica esadecimale, come mostrato nell'esempio sottostante.
+
+```py
+rgb(255, 255, 255) # restituisce FFFFFF
+rgb(0,0,0) # restituisce 000000
+rgb(148, 0, 211) # restituisce 9400D3
+```

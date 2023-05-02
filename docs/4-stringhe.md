@@ -383,3 +383,69 @@ Inserisci una parola: pizza
 Inserisci una parola: nutella
 12 19 18 5 10 10 1
 ```
+
+# d.17 Encoding CD
+"Pit" e "Land" sono caratteristiche fisiche della superficie di un CD che rappresentano dati binari. I "Pit" sono piccoli buchi o scanalature sulla superficie del CD, mentre i "Land" sono aree pianeggianti tra due "Pit" adiacenti.
+
+"Pit" e "Land" non rappresentano direttamente gli zeri e gli uno dei dati binari, ma la codifica avviene nel seguente modo: 
+- un passaggio da pit a terra o da terra a fossa indica uno
+- nessun cambiamento indica uno zero.
+
+In questo esercizio dovrai creare un programma che chiede in input un numero intero compreso tra 0 e 255 (8 bit) e restituisce:
+- la rappresentazione binaria su 8 bit del numero inserito
+- la combinazione di "Pit" e "Land" che codificano il numero sottoforma di una stringa, dove le P indicano un Pit e le L un land
+
+
+##### ESEMPIO 1
+Inserisci un numero: 5
+Rappresentazione binaria (8 bit): 00000101
+"Pit & Land": PPPPPPLLP
+
+# d.18 Alfanumerico
+In questo esempio devi convalidare se una stringa di input utente è alfanumerica. 
+La stringa deve rispettare le seguenti condizioni per essere alfanumerica:
+
+1. Almeno un carattere ("" non è valido)
+2. I caratteri consentiti sono lettere latine maiuscole/minuscole e cifre da 0 a 9
+3. Niente spazi bianchi / caratteri di sottolineatura
+
+Nel caso la stringa sia alfanumerica, il programma stampa True, altrimenti stampa False
+
+##### ESEMPI
+```
+Inserisci una stringa: hello world_
+False
+
+Inserisci una stringa: PassW0rd
+True
+
+Inserisci una stringa: __ * __
+False
+
+Inserisci una stringa: 43534h56jmTHHF3
+True
+```
+
+# d.19 Il cubo di Rubik 1
+Molti appassionati del cubo di Rubik utilizzano una notazione sviluppata da David Singmaster, nota come "notazione di Singmaster", per distinguere i vari movimenti eseguibili sul cubo.
+La notazione prevede 12 possibili movimenti:
+1. **F** rotazione di 90° in senso orario della faccia frontale
+2. **F'** rotazione di 90° in senso anti-orario della faccia frontale
+3. **B** rotazione di 90° in senso orario della faccia posteriore
+4. **B'** rotazione di 90° in senso anti-orario della faccia posteriore
+5. **R** rotazione di 90° in senso orario della faccia di destra
+6. **R'** rotazione di 90° in senso anti-orario della faccia di destra
+7. **L** rotazione di 90° in senso orario della faccia di sinistra
+8. **L'** rotazione di 90° in senso anti-orario della faccia di sinistra
+9. **U** rotazione di 90° in senso orario della faccia superiore
+10. **U'** rotazione di 90° in senso anti-orario della faccia superiore
+11. **D** rotazione di 90° in senso orario della faccia inferiore
+12. **D'** rotazione di 90° in senso anti-orario della faccia inferiore
+
+Questa notazione viene utilizzata per descrivere gli algoritmi, che non sono altro che una serie di movimenti che portano alla risoluzione del cubo o di una parte di esso.
+
+Tuttavia negli algoritmi se ci sono due movimenti uguali, uno dopo l'altro, vengono abbreviati. Ad esempio:
+- F F diventa F2 (rotazione di 180° della faccia frontale). In questo caso non importa che il senso sia orario o antiorario in quanto una rotazione di 180° produce lo stesso risultato sia che venga fatta in senso orario che in senso antiorario.
+- Anche F' F' diventa F2, per i motivi che abbiamo detto sopra.
+- Se ci sono due movimenti opposti di seguito, es. F seguito da F' (F F'), che si annullano a vicenda, non vengono considerati, in quanto se si annullano a vicenda sono semplicemente inutili.
+
