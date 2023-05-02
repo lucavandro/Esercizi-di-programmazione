@@ -411,6 +411,9 @@ La stringa deve rispettare le seguenti condizioni per essere alfanumerica:
 
 Nel caso la stringa sia alfanumerica, il programma stampa True, altrimenti stampa False
 
+#### *suggerimento* 🤫
+In Python, questo programma puo` essere svolto con sole 2 righe di codice
+
 ##### ESEMPI
 ```
 Inserisci una stringa: hello world_
