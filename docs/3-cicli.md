@@ -437,76 +437,297 @@ Inserisci una moneta: 20
 Inserisci una moneta: 10
 
 Caffè erogato
-Resto 0 cent.
-```
-
-<!-- ##### [Soluzioni](soluzioni/c/c12.md) -->
 
 
-## c13. Il distributore di caffè 2
-In un distributore automatico:
-
-- un caffè costa 50 cent. 
-- un caffè decaffeinato costa 60 cent.
-- un tè costa 40 cent.
-- una cioccolata calda costa 70 cent.
-
-Il distributore accetta solo monete da 5, 10 e 20 cent.
-Scrivere un programma che chieda al cliente di selezionare una bevanda, mostri il costo della bevanda selezionata e legga le monete inserite e che rispetti i seguenti requisiti:
-
-- Se la scelta della bevanda non rientra fra quelle disponibili, il programma stampa un messaggio di errore e mostra nuovamente l'elenco delle bevande disponibili.
-- accetti solo monete da 5, 10 e 20: se viene inserito un taglio diverso, il distributore stampa un messaggio di errore e chiede di inserire una nuova moneta.
-- una volta che la somma delle monete inserite raggiunge il costo della bevanda, il programma smette di chiedere di inserire monete.
-- se la somma delle monete inserite supera il costo della bevanda,viene stampato l'importo dell'eventuale resto.
-
-##### ESEMPIO 1
-```
-1 - Caffè
-2 - Decaffeinato
-3 - Tè
-4 - Cioccolata calda
-Seleziona la tua bevanda: 3
-Il costo del tè è di 40 centesimi
-Inserisci una moneta: 5
-Inserisci una moneta: 20
-Inserisci una moneta: 5
-Inserisci una moneta: 10
-
-Tè erogato
-Resto 0 cent.
-```
-##### ESEMPIO 2
-```
-1 - Caffè
-2 - Decaffeinato
-3 - Tè
-4 - Cioccolata calda
-Seleziona la tua bevanda: 6
-Errore: nessuna bevanda disponibile con il numero 6
-1 - Caffè
-2 - Decaffeinato
-3 - Tè
-4 - Cioccolata calda
-Seleziona la tua bevanda: 2
-Il costo del decaffeinato è di 60 centesimi
-
-Inserisci una moneta: 20
-Inserisci una moneta: 20
-Inserisci una moneta: 20
-
-Caffè decaffeinato erogato
-Resto 0 cent.
-```
 
 <!-- ##### [Soluzioni](soluzioni/c/c13.md) -->
 
+## c14. Somma delle cifre
+Scrivi un programma che legga un numero intero positivo e ne calcoli la somma delle cifre . Il programma deve gestire anche il caso in cui l'utente inserisca 0.
+
+##### ESEMPIO 1
+```
+Inserisci un numero: 12345
+
+La somma delle cifre è 15
+```
+##### ESEMPIO 2
+```
+Inserisci un numero: 0
+
+La somma delle cifre è 0
+```
 
 
+## c15. Tabellina
+Scrivi un programma che chieda all'utente un numero intero **n** e stampi la tabellina di **n** (i primi 10 multipli).
+
+##### ESEMPIO 1
+```
+Inserisci un numero: 7
+
+7 x 1 = 7
+7 x 2 = 14
+7 x 3 = 21
+...
+7 x 10 = 70
+```
 
 
+## c16. Vendite
+Andrea registra le vendite giornaliere del suo negozio. Scrivi un programma che legga l'ammontare delle vendite giorno per giorno fino a quando non viene inserito un valore negativo. Alla fine stampare:
+
+- il numero di giorni registrati
+- il totale delle vendite
+- la media giornaliera delle vendite
+
+##### ESEMPIO
+```
+Inserisci vendite del giorno: 120
+Inserisci vendite del giorno: 200
+Inserisci vendite del giorno: 0
+Inserisci vendite del giorno: 150
+Inserisci vendite del giorno: -1
+
+Giorni registrati: 4
+Vendite totali: 470
+Media giornaliera: 117.5
+```
 
 
+## c17. Numeri perfetti
+Un numero perfetto è uguale alla somma dei suoi divisori propri (escluso se stesso). Scrivi un programma che legga un numero **n** e stampi tutti i numeri perfetti minori o uguali a **n** .
+
+##### ESEMPIO
+```
+Inserisci un numero: 30
+
+6 è un numero perfetto
+28 è un numero perfetto
+```
 
 
+## c18. Primo successivo
+Scrivi un programma che legga un numero intero **n** e trovi il primo numero primo maggiore di **n** utilizzando un ciclo **while**.
 
+##### ESEMPIO
+```
+Inserisci un numero: 14
+
+Il primo numero primo maggiore di 14 è 17
+```
+
+
+## c19. Serie geometrica
+Scrivi un programma che chieda all'utente i valori iniziale **a**, ragione **r** e numero di termini **k**, e stampi i primi **k** termini di una progressione geometrica usando un ciclo **for**.
+
+##### ESEMPIO
+```
+Valore iniziale (a): 3
+Ragione (r): 2
+Numero di termini: 5
+
+3
+6
+12
+24
+48
+```
+
+
+## c20. Controllo PIN
+Scrivi un programma che chieda all'utente di inserire un PIN (4 cifre) e consenta al massimo 3 tentativi. Se il PIN inserito è corretto il programma stampa "Accesso consentito" e termina; se dopo 3 tentativi non viene inserito il PIN giusto il programma stampa "Accesso negato".
+
+##### ESEMPIO 1
+```
+Inserisci il PIN: 1234
+PIN corretto
+Accesso consentito
+```
+##### ESEMPIO 2
+```
+Inserisci il PIN: 0000
+PIN errato
+Inserisci il PIN: 1111
+PIN errato
+Inserisci il PIN: 2222
+PIN errato
+Accesso negato
+```
+
+
+## c21. Massimo comune divisore
+Scrivi un programma che legga due numeri interi positivi e calcoli il loro massimo comune divisore (MCD) utilizzando l'algoritmo di Euclide.
+
+##### ESEMPIO
+```
+Inserisci il primo numero: 28
+Inserisci il secondo numero: 20
+
+Il MCD è 4
+```
+
+
+## c22. Media di una sequenza
+Scrivi un programma che chieda all'utente quanti numeri intende inserire (**n**) e poi legga **n** numeri impiegando un ciclo **for**. Alla fine stampare la media.
+
+##### ESEMPIO
+```
+Quanti numeri vuoi inserire? 4
+Inserisci un numero: 5
+Inserisci un numero: 10
+Inserisci un numero: 7
+Inserisci un numero: 8
+
+La media è 7.5
+```
+
+
+## c23. Deposito con interesse
+Mario versa una certa cifra in un conto e decide di calcolare quanto tempo impiegherà il suo capitale ad superare una somma prefissata, sapendo che ogni anno il saldo aumenta del 5% (interesse composto). Scrivi un programma che legga l'importo iniziale e l'obiettivo e stampi il numero di anni necessari a raggiungere l'obiettivo.
+
+##### ESEMPIO
+```
+Importo iniziale: 1000
+Obiettivo: 2000
+
+Ci vorranno 15 anni per raggiungere o superare l'obiettivo
+```
+
+## c24. Temperature estreme
+Un meteorologo registra le temperature giornaliere finché non inserisce un valore negativo. Scrivi un programma che legga i valori e, al termine, stampi la temperatura massima e minima registrata.
+
+##### ESEMPIO
+```
+Inserisci la temperatura: 15
+Inserisci la temperatura: 22
+Inserisci la temperatura: 5
+Inserisci la temperatura: -1
+
+Temperatura massima: 22
+Temperatura minima: 5
+```
+
+
+## c25. Countdown per razzo
+Scrivi un programma che stampi il conto alla rovescia da 10 a 0 usando un ciclo **for**. Al termine scrivi "LANCIO!".
+
+##### ESEMPIO
+```
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+LANCIO!
+```
+
+
+## c26. Conversione in binario
+Scrivi un programma che legga un numero intero positivo e stampi la sua rappresentazione in base 2 utilizzando ripetute divisioni per 2 e un ciclo **while**.
+
+##### ESEMPIO
+```
+Inserisci un numero: 13
+
+La rappresentazione binaria è 1101
+```
+
+
+## c27. Somma dei dispari
+Scrivi un programma che legga un numero **n** e calcoli la somma dei numeri dispari da 1 a **n** usando un ciclo **for**.
+
+##### ESEMPIO
+```
+Inserisci un numero: 9
+
+La somma dei numeri dispari fino a 9 è 25
+```
+
+
+## c28. Potenza iterativa
+Scrivi un programma che legga due numeri interi positivi **base** ed **esponente** e calcoli la potenza usando un ciclo **for** (non usare l'operatore exponent).
+
+##### ESEMPIO
+```
+Base: 3
+Esponente: 4
+
+3^4 = 81
+```
+
+
+## c29. Voti in classe
+Un insegnante inserisce i voti degli studenti finché non scrive -1. Scrivi un programma che conti quanti studenti sono promossi (voto >= 6) e quanti bocciati.
+
+##### ESEMPIO
+```
+Inserisci un voto: 5
+Inserisci un voto: 8
+Inserisci un voto: 6
+Inserisci un voto: 3
+Inserisci un voto: -1
+
+Promossi: 2
+Bocciati: 2
+```
+
+
+## c30. Sequenza di Collatz
+Dato un numero intero positivo, la sequenza di Collatz si ottiene: se il numero è pari si divide per 2, se è dispari si moltiplica per 3 e si aggiunge 1. Ripeti il processo finché non si raggiunge 1. Scrivi un programma che stampi la sequenza.
+
+##### ESEMPIO
+```
+Inserisci un numero: 6
+
+6
+3
+10
+5
+16
+8
+4
+2
+1
+```
+
+
+## c31. Minimo comune multiplo
+Scrivi un programma che legga due numeri interi positivi e calcoli il loro minimo comune multiplo (mcm) utilizzando un ciclo **while** o **for**.
+
+##### ESEMPIO
+```
+Inserisci il primo numero: 4
+Inserisci il secondo numero: 6
+
+Il mcm è 12
+```
+
+
+## c32. Conteggio cifre
+Scrivi un programma che legga un numero intero (positivo o negativo) e stampi quante cifre ha utilizzando un ciclo **while**.
+
+##### ESEMPIO
+```
+Inserisci un numero: -12345
+
+Il numero ha 5 cifre
+```
+
+
+## c33. Somma dei numeri di una riga
+Scrivi un programma che legga una riga di interi separati da spazi e ne calcoli la somma usando un ciclo **for** per scorrere i numeri.
+
+##### ESEMPIO
+```
+Inserisci una riga di numeri: 3 5 7 2
+
+La somma è 17
+```
 
