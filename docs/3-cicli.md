@@ -437,7 +437,7 @@ Inserisci una moneta: 20
 Inserisci una moneta: 10
 
 Caffè erogato
-
+```
 
 
 <!-- ##### [Soluzioni](soluzioni/c/c13.md) -->
